@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=barbosajackson)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosajackson&hide=TeX&layout=compact)
 
 <!--
 **BarbosaJackson/BarbosaJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
